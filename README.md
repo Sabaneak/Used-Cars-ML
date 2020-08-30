@@ -24,7 +24,8 @@ This ML project helps estimate the price of a used car, provided by the UsedCars
           * Low price range
           * Med price range
           * High price range  
-          The elbow plot did not indicate any obvious elbow, so clusters were concluded at 3 for a fair estimate.
+          
+       The elbow plot did not indicate any obvious elbow, so clusters were concluded at 3 for a fair estimate.
           
 ## Packages Used:
 * Numpy
